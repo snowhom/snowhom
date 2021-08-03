@@ -1,5 +1,5 @@
 <h1 align="left">Olá mundo, eu sou o Thomaz!</h1>
-<h4 align="left">Desenvolvedor PHP Júnior 👨‍💻</h4>
+<h4 align="left">Desenvolvedor PHP Júnior 👨‍💻🐘</h4>
 <a href="https://linkedin.com/in/thomaz-ferreira-1b904015a" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
