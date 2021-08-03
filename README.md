@@ -1,6 +1,5 @@
 <h1 align="left">Olá mundo, eu sou o Thomaz!</h1>
 <h4 align="left">Desenvolvedor PHP Júnior 👨‍💻</h4>
-<br>
 <h3>Sobre mim</h3>
 <p align="left">
   Estudante de Ciências da Computação na UFABC e Técnico em informática pela ETEC Albert Einstein.
