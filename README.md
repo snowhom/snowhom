@@ -8,8 +8,11 @@
   <br>
   Apaixonado por café e tecnologia! ☕
   <br>
+  <br>
+  Possuo conhecimento em linguagens de programação PHP, Javascript, CSS, HTML, Java e SQL Server, e conhecimento básico em Linux e Git.
+  Estou apenas há 1 ano trabalhando na área de desenvolvimento, mas minha aventura nesse curioso e fascinante mundo da tecnologia começou de verdade em 2015 .
   
-  🔭 Atualmente estou trabalhando em <a target="_blank" href='https://github.com/thomazf/PossoLer'>Posso Ler</a> 💻
+  🔭 Atualmente estou trabalhando no projeto <a target="_blank" href='https://github.com/thomazf/PossoLer'>Posso Ler</a> 💻
   <br>
   🌱 Atualmente estou aprendendo PHP e Javascript
 </p>
