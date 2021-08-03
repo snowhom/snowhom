@@ -33,8 +33,10 @@
     </th>
   </tr>
 </table>
+<br>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+
+## Linguagens, Ferramentas e Tecnologias
 <p align="left">
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
