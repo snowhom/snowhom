@@ -29,7 +29,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomazf&layout=compact"></img>
     </th>
     <th>
-      <img src="https://github-readme-stats.vercel.app/api?username=thomazf&show_icons=true&theme=dark&hide=contribs,prs"></img>
+      <img src="https://github-readme-stats.vercel.app/api?username=thomazf&show_icons=true&theme=dark&hide=contribs,prs&count_private=true"></img>
     </th>
   </tr>
 </table>
