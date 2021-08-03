@@ -4,12 +4,12 @@
 <p align="left">
   Estudante de Ciências da Computação na UFABC e Técnico em informática pela ETEC Albert Einstein.
   <br>
-  Curioso desde sempre e com muita vontade de transformar a vida das pessoas usando meus conhecimentos!
+  Curioso desde sempre e com muita vontade de transformar a vida das pessoas usando meus conhecimentos! 👨🏾‍🚀🚀
   <br>
-  Apaixonado por café e tecnologia!
+  Apaixonado por café e tecnologia! ☕
   <br>
   
-  🔭 Atualmente estou trabalhando em <a target="_blank" href='https://github.com/thomazf/PossoLer'>Posso Ler</a>
+  🔭 Atualmente estou trabalhando em <a target="_blank" href='https://github.com/thomazf/PossoLer'>Posso Ler</a> 💻
   <br>
   🌱 Atualmente estou aprendendo PHP e Javascript
 </p>
