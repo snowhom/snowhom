@@ -1,5 +1,8 @@
 <h1 align="left">Olá mundo, eu sou o Thomaz!</h1>
 <h4 align="left">Desenvolvedor PHP Júnior 👨‍💻</h4>
+<a href="https://linkedin.com/in/thomaz-ferreira-1b904015a" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+</a>
 <h3>Sobre mim</h3>
 <p align="left">
   Estudante de Ciências da Computação na UFABC e Técnico em informática pela ETEC Albert Einstein.
@@ -10,20 +13,14 @@
   <br>
   <br>
   Possuo conhecimento em PHP, Javascript, CSS, HTML, Java e SQL Server, e conhecimento básico em Linux e Git.
-  Estou apenas há 1 ano trabalhando na área de desenvolvimento, mas minha aventura nesse curioso e fascinante mundo da tecnologia começou de verdade em 2015 .
+  <br>
+  Estou apenas 1 ano trabalhando na área de desenvolvimento, mas minha aventura nesse curioso e fascinante mundo da tecnologia começou de verdade em 2015 .
   
   🔭 Atualmente estou trabalhando no projeto <a target="_blank" href='https://github.com/thomazf/PossoLer'>Posso Ler</a> 💻
   <br>
   🌱 Atualmente estou aprendendo PHP e Javascript
 </p>
 <br>
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thomaz-ferreira-1b904015a" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomaz ferreira" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
