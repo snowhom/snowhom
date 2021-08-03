@@ -22,6 +22,13 @@
 </p>
 <br>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomazf&layout=compact"></img>
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=thomazf&show_icons=true&theme=dark&hide=contribs,prs"></img>
+</p>
+
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
   <a href="https://www.php.net" target="_blank">
