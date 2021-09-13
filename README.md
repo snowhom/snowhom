@@ -24,7 +24,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomazf&layout=compact&langs_count=10&theme=dark"></img>
-  <img src="https://github-readme-stats.vercel.app/api?username=thomazf&show_icons=true&theme=dark&hide=contribs,prs&count_private=true"></img>
+  <img height='165' src="https://github-readme-stats.vercel.app/api?username=thomazf&show_icons=true&theme=dark&hide=contribs,prs&count_private=true"></img>
 </p>
 <br>
 
