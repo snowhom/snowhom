@@ -1,5 +1,6 @@
 <h1 align="left">Olá mundo, eu sou o Thomaz!</h1>
-<h4 align="left">Desenvolvedor PHP Júnior | RaiaDrogasil 👨‍💻🐘</h4>
+<h4 align="left">Desenvolvedor Java Júnior | Mercado Livre 👨‍💻☕</h4>
+<!-- <h4 align="left">Desenvolvedor Java Júnior | Mercado Livre 👨‍💻🐘</h4> -->
 <a href="https://linkedin.com/in/thomaz-ferreira-1b904015a" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
@@ -14,9 +15,11 @@
   <br>
   Estou apenas 1 ano trabalhando na área de desenvolvimento, mas minha aventura nesse curioso e fascinante mundo da tecnologia começou em 2015 .
   <br><br>
-  🔭 Atualmente estou trabalhando no projeto <a target="_blank" href='https://github.com/thomazf/PossoLer'>Posso Ler</a> 💻
+  🔭 Atualmente estou trabalhando no projeto <a target="_blank" href='https://github.com/thomazf/PossoLer'>Posso Ler</a> 📰🗞️
   <br>
-  🌱 Atualmente estou estudando PHP ( <strong>Magento 2</strong> e <strong>Laravel</strong> ) e Javascript
+  🌱 Atualmente estou estudando Java
+  <br>
+  ⌛ Anteriormente ao Java, trabalhava com PHP (Magento 2) 🐘
 </p>
 <br>
 
@@ -31,6 +34,9 @@
 
 ## Linguagens, Ferramentas e Tecnologias
 <p align="left">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  </a>
   <a href="https://www.php.net" target="_blank">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   </a>
@@ -54,9 +60,6 @@
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   </a>
   <a href="https://ubuntu.com/" target="_blank">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
