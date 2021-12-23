@@ -17,7 +17,7 @@
   <br><br>
   🔭 Atualmente estou trabalhando no projeto <a target="_blank" href='https://github.com/thomazf/PossoLer'>Posso Ler</a> 📰🗞️
   <br>
-  🌱 Atualmente estou estudando Java
+  🌱 Atualmente estou estudando Java (Spring)
   <br>
   ⌛ Anteriormente ao Java, trabalhava com PHP (Magento 2) 🐘
 </p>
