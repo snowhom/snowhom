@@ -1,9 +1,9 @@
 <h1 align="left">Olá mundo, eu sou o Thomaz!</h1>
 <h4 align="left">Desenvolvedor Java Júnior <!-- | Mercado Livre --> 👨‍💻☕</h4>
 <!-- <h4 align="left">Desenvolvedor Java Júnior | Mercado Livre 👨‍💻🐘</h4> -->
-<a href="https://linkedin.com/in/thomaz-ferreira-1b904015a" target="blank">
+<!-- <a href="https://linkedin.com/in/thomaz-ferreira-1b904015a" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
-</a>
+</a> -->
 <h3>Sobre mim</h3>
 <p align="left">
   <ul>
@@ -17,7 +17,9 @@
   <br><br>
   🔭 Atualmente estou trabalhando no projeto <a target="_blank" href='https://github.com/thomazf/PossoLer'>Posso Ler</a> 📰🗞️
   <br>
-  🌱 Atualmente estou estudando Java (Spring)
+  🌱 Atualmente estou estudando Java (Spring) e Golang
+
+
   <br>
   ⌛ Anteriormente ao Java, trabalhava com PHP (Magento 2) 🐘
 </p>
@@ -36,6 +38,12 @@
 <p align="left">
   <a href="https://www.java.com" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  </a>
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   </a>
   <a href="https://www.php.net" target="_blank">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
