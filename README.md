@@ -13,7 +13,7 @@
   </ul>
   Possuo conhecimento em PHP, Javascript, CSS, HTML, Java e SQL Server, e conhecimento básico em Linux e Git.
   <br>
-  Estou apenas 1 ano trabalhando na área de desenvolvimento, mas minha aventura nesse curioso e fascinante mundo da tecnologia começou em 2015 .
+  Estou 2 anos e meio trabalhando na área de desenvolvimento, mas minha aventura nesse curioso e fascinante mundo da tecnologia começou em 2015 .
   <br><br>
   🔭 Atualmente estou trabalhando no projeto <a target="_blank" href='https://github.com/thomazf/PossoLer'>Posso Ler</a> 📰🗞️
   <br>
